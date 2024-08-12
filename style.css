@@ -45,11 +45,13 @@ h1 {
   font-size: 100px;
   margin-bottom: 0;
   font-family: saira ,sans-serif;
+  color: var(--on-background);
 }
 
 h2 {
   font-size: 32px;
   font-weight: normal;
+  color: var(--on-background-alt);
 }
 
 /* Navigation */
